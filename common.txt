@@ -1,3 +1,5 @@
+hotels
+wp-content/uploads
 admin
 bak
 Admin
